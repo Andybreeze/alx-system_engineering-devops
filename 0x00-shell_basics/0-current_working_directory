@@ -1,16 +1,3 @@
 #!/bin/bash
 pwd
-:wq
-
-q
-cx c-f
-q
-:w
-:q!
-\
-
-:q! <return>
-:q!<return>
-q
-e
 
